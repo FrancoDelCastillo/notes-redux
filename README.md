@@ -11,4 +11,4 @@ Libraries: fecha, uuid.
 
 UI: react-bootstrap
 
-Deployed to Netlify
+Deployed to Netlify: https://condescending-euclid-76f359.netlify.app/

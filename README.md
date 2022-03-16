@@ -1,6 +1,6 @@
 # Notes App
 
-Built with ReactJS and Redux
+Built with ReactJS and Redux for state management
 
 Add and delete notes
 
